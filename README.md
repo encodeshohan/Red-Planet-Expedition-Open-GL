@@ -1,5 +1,7 @@
 # Red-Planet-Expedition-Open-GL
 
+## How to Run
+<p align "justify">This project requires the <mark>GLUT</mark> library. Make sure you have the <mark>glut.h</mark> and <>markGL/glut.h</mark> header files in your Code::Blocks libraries. The project will not run without these files. You can download them by searching for <mark>FreeGLUT</mark> for Code::Blocks online. Once you have these files, simply open Red Planet <mark>Expedition.cbp</mark> in Code::Blocks and run the project.</p>
 
 ## Story Description
 <p align="justify">The title of this project is <b>Red Planet Expedition</b>. In this project features a dynamic scene set against the backdrop of a sea, incorporating various interactive elements and structures. Central to the scene is a patrol boat that moves from left to right across the water. The boat's movement can be controlled using specific keys: pressing "b" pauses the boat, while pressing "c" resumes its motion. On either side of the scene, there are two buildings, each accompanied by a pair of trees. The right-side building is notable for its rooftop antenna, which rotates continuously. To protect these structures from the sea, a sea dam is included in the environment.</p>
