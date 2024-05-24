@@ -10,3 +10,5 @@ In the second frame, the rocket continues traveling upward. After a while, it re
 <p align="justify">In the fifth frame, the main rocket descends vertically and lands on the surface of a red planet. This planet features two large mountains, one on the left side and another on the right, with a distant backdrop of additional mountains. The ground of the red planet is dotted with two bulks, one on the left and one on the right, while a moon planet rotates in the sky. Pressing the "n" key transitions the scene to the sixth frame.</p>
 
 <p align="justify">The sixth frame is similar to the fifth, but instead of the right mountain, there is a base camp, and the ground is devoid of bulks. Additionally, a rover with three wheels is seen rotating from left to right.</p> 
+
+https://github.com/encodeshohan/Red-Planet-Expedition-Open-GL/assets/89014168/6cbe5f7b-c3f0-4e1b-9c5e-0e2b6d93aee8
